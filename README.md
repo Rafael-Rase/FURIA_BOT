@@ -3,8 +3,17 @@
 - Há dois tipos de programa do chat bot, um possuí caracteres especiais "FuriaBotEspecial", já o outro não apresenta os mesmos "FuriaBot"
 
 
+## [SUMÁRIO](#sumário)
+
+1. [Descrição](#descrição)
+2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+3. [Guia](#guia)
+4. [Como Usar](#como-usar)
+5. [Requisitos](#requisitos)
+6. [Diagrama Caso de Uso](#diagrama-caso-de-uso)
+
   
-## 1. Descrição
+## 1. [Descrição](#descrição)
 - O código tem o objetivo de simular uma conversa com um chat inteligente que disponibiliza ao usuário várias opções e respostas sobre os possíveis interesses de um torcedor de CS da Furia Esports.
 - Destinado aos torcedores da Furia de Counter-Strike 2, o programa oferece varios tópicos que abrangem os interesses deles, como as redes sociais do time de CS, loja virtual de roupas e acessórios, e, principalmente, informações abrangentes dos times masculino e feminino da Furia:
 1. Elenco - Nicks e nomes, idade e posição
@@ -15,7 +24,7 @@
 
 
      
-## 2. Tecnologias Utilizadas
+## 2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
   1. Linguagem de Programação:
      - O programa foi desenvolvido utilizando Python, uma linguagem poderosa e versátil, ideal para automação e processamento de dados.
   2. Editor de Código: Visual Studio Code (VS Code)
@@ -26,7 +35,7 @@
 
 
 
-## 3. Guia 
+## 3. [Guia](#guia)
   Como Baixar o Programa:
   
 1. Abra o repósitorio do GitHub: https://github.com/Rafael-Rase/FURIA_BOT/tree/main
@@ -122,7 +131,7 @@ Se isso acontecer:
 
 
 
-## 4. Como Usar
+## 4. [Como Usar](#como-usar)
 - O sistema possui uma fácil utilização, sua função se baseia em digitar a opção desejada e seguir o raciocínio e etapas do assistente virtual
 - EXEMPLO:
   
@@ -136,7 +145,7 @@ Se isso acontecer:
 
 ![image](https://github.com/user-attachments/assets/33c8312c-0ffc-453b-9038-e97c8a7a1921)
 
-## 5. Requisitos
+## 5. [Requisitos](#requisitos)
 Foram solicitados diversos requisitos para integrar o uso de Inteligência Artificial nas tarefas, sendo esses os planejados após o levantamento de requisitos inicial da integração:
 
 - Requisitos Funcionais:
@@ -159,7 +168,7 @@ RNF03 – Disponibilidade: O sistema deve ficar disponível a todo momento, e fi
 
 RNF04 – Manutenibilidade: O código-fonte deve estar devidamente documentado para alterações ou correções necessárias.
 
-## 6. Diagrama Caso de Uso
+## 6. [Diagrama Caso de Uso](#diagrama-caso-de-uso)
 
 ![image](https://github.com/user-attachments/assets/bc4a4d71-8ae7-4770-abe5-2f8fb2384bde)
 
