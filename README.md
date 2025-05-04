@@ -1,5 +1,5 @@
 # FURIA_BOT
-- FuriaBot/FuriaBotEspecia
+- FuriaBot/FuriaBotEspecial
 - Há dois tipos de programa do chat bot, um possuí caracteres especiais "FuriaBotEspecial", já o outro não apresenta os mesmos "FuriaBot"
 
 
